@@ -1,9 +1,9 @@
 class Taken < Formula
   desc "Clipboard-to-notebook CLI"
   homepage "https://github.com/NotesTaken/tkn-cli"
-  url "https://github.com/NotesTaken/tkn-cli/archive/refs/tags/v0.0.6.tar.gz"
-  sha256 "4923bb858af9485c113bf3a430af7f52ef1ca28c16264cc89c5470182bfdeea3"
-  version "0.0.6"
+  url "https://github.com/NotesTaken/tkn-cli/archive/refs/tags/v0.0.7.tar.gz"
+  sha256 "9e24f507eb63dde45f81181d4d0d2962e633d07d60659a16aabe7e87a5f856ef"
+  version "0.0.7"
 
   def install
     bin.install "bin/tkn"
